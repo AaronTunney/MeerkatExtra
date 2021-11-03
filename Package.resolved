@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MeerkatBase",
+        "repositoryURL": "https://github.com/AaronTunney/MeerkatBase.git",
+        "state": {
+          "branch": null,
+          "revision": "da3352c4ec6af9dc8ccbf9793e31c7e55853da44",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
